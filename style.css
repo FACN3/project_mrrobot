@@ -1,4 +1,100 @@
+/*Navigation Bar */
 
+* {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+body{
+margin-bottom:10%;
+
+}
+.navbar{
+ margin-left: 100px;
+
+}
+.navbar font{
+ font-size:1;
+
+}
+
+.navbarmarginleft{
+  margin-left: 50px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #174DC9;
+  position: fixed !important; top: 0; left: 0; right: 0;
+  width: 100%;
+  box-shadow: 0px 5px 30px grey;
+}
+
+.navbar li {
+  float: left;
+}
+
+.navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: 28px;
+  padding: 16px 16px;
+  text-decoration: none;
+}
+
+.navbar li a:hover:not(.active) {
+  background-color: Navy;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 28px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 16px 16px;
+    background-color: inherit;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: Navy;
+}
+
+.dropdown-content {
+    display: none;
+    position: fixed;
+    background-color: #174DC9;
+    min-width: 155px;
+    box-shadow: 0px 5px 30px grey;
+
+}
+
+.dropdown-content a {
+    float: none;
+    color: White;
+    padding: 16px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+
+.dropdown-content a:hover {
+    background-color: Navy;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/*Navigation Bar end */
 
 .cont {
         padding: 70px 200px 70px 200px;
