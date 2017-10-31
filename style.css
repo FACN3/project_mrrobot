@@ -1,0 +1,11 @@
+
+
+.cont {
+        padding: 70px 200px 70px 200px;
+}
+
+.cont img{
+    max-width: 40%;
+    max-height: 150px;
+    border: 2px solid;
+}
