@@ -1,0 +1,38 @@
+.jumbot {
+  background-color: blue;
+  height: 400px;
+  width: auto;
+  overflow: hidden;
+  display: inline-flex;
+}
+
+.jumbot h1 {
+  padding: 170px 100px 140px 100px;
+  font-size: 40px;
+  color: white;
+  text-align: left;
+  width: 50%;
+
+}
+
+.jumbot img {
+  width: 100%;
+  padding: 170px 100px 140px 170px;
+  float:right;
+}
+
+@media (max-width:600px) {
+  .jumbot h1{
+    font-size: 35px;
+  }
+  .jumbot img{
+    width: 100%;
+  }
+}
+
+@media (min-width: 601px) {
+  .jumbot img {
+    width: auto;
+    height: 200px;
+  }
+}
