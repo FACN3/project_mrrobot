@@ -19,6 +19,7 @@
   width: 100%;
   padding: 170px 100px 140px 170px;
   float:right;
+  border-radius: 90%;
 }
 
 @media (max-width:600px) {
@@ -26,7 +27,7 @@
     font-size: 35px;
   }
   .jumbot img{
-    width: 100%;
+    width: calc(40%);
   }
 }
 
