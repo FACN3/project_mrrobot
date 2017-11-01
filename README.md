@@ -4,10 +4,12 @@
 We are so tired of the low quality and amateurish websites all around us. 
 It hurts us so much!
 
-also, these days it is almost imossible to ensure that your APP includes all the below:
+also, these days it is almost imossible to ensure that your APP includes all of the below:
+
 ORGANIC, FAIR TRADE, INNOVATIVE, AGILE, RECYCLING, GREEN, SUSTAINABLE, VISION, URBAN, DEVOP, BIG DATA, AI, EQUALITY, AVOCADO, 
 
-WE CAN HELP
+WE CAN HELP!!!
+
 ## WHO
 
 You asking who we are? Obviously, WE are a COMMUNITY. 
