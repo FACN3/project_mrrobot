@@ -6,9 +6,14 @@
 }
 
 body {
-  margin-bottom: 10%;
-  background-color: white;
-  margin-top: 50px;
+  background-color: #FFDBAC;
+}
+
+.paper {
+  width: 75%;
+  height: 0px auto;
+  padding-bottom: 100px;
+  background-color: #FFF0DD;
 }
 
 /*Fonts*/
@@ -60,7 +65,6 @@ p {
   right: 0;
   z-index: 1;
   width: 100%;
-  box-shadow: 0px 5px 30px grey;
 }
 
 .navbar li {
@@ -103,7 +107,6 @@ p {
   position: fixed;
   background-color: #174DC9;
   min-width: 155px;
-  box-shadow: 0px 5px 30px grey;
 }
 
 .dropdown-content a {
@@ -125,42 +128,54 @@ p {
 
 /*Navigation Bar end */
 
+/*cont*/
+
 .cont {
-  padding: 80px 200px 80px 200px;
+  padding: 80px 100px 80px 100px;
 }
 
 .cont img {
   max-width: 40%;
   max-height: 150px;
   border: 3px solid;
-
 }
 
+/*cont*/
+
+/*Contact Form*/
 
 .contact-form {
-  background-color: rgba(220,220,220, 0.2);
-  margin-top: 100px;
+  background-color: #00bfff;
 }
 
 .contact-form input {
-  background: transparent;
-  border: 0;
-  outline: 0;
-  border-bottom: 1px solid blue;
+  border: 3px solid white;
+  border-radius: 15px;
   margin-bottom: 10px;
+  font-size: 18px;
+  padding-left: 10px
 }
 
 .contact-form textarea {
-  background: transparent;
-  border: 0;
-  outline: 0;
-  border-bottom: 1px solid blue;
-  font-style:italic;
+  background: white;
+  border: 3px solid white;
+  border-radius: 15px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-style: italic;
 }
 
-.contact-form button textarea {
+.contact-form textarea {
   margin: 6px 5px 10px 0px;
 }
 
+.contact-form button {
+  margin: 6px 5px 10px 0px;
+  background-color: navy;
+  border: none;
+  font-size: 18px;
+  font-family: 'Merriweather', serif;
+  color: white;
+}
 
-
+/*Contact Form*/
