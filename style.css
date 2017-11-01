@@ -11,13 +11,27 @@ body {
   margin-top: 50px;
 }
 
+/*Fonts*/
+
+h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 40px;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+}
+
+/*Fonts*/
+
 /*This is really important!!!*/
 
 .jumptarget::before {
-  content:"";
-  display:block;
-  height: 65px; /* fixed header height*/
-  margin:-65px 0 0; /* negative fixed header height */
+  content: "";
+  display: block;
+  height: 65px;
+  margin: -65px 0 0;
 }
 
 /*This is really important!!!*/
@@ -113,7 +127,6 @@ body {
 
 .cont {
   padding: 80px 200px 80px 200px;
-
 }
 
 .cont img {
