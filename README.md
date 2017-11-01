@@ -19,7 +19,7 @@ You asking who we are? Obviously, WE are a COMMUNITY.
 
 
 ## HOW
-We don't do apps WE CREATE CONCEPTS. <span style= "color:red"> RADICAL CONCEPTS </span>
+We don't do apps WE CREATE CONCEPTS. <span style= "color:red"> *RADICAL* CONCEPTS </span>
 
 We can help your business By building an organic, artisan and fairtrade product with local flavours and a good narrative behind it.
 
