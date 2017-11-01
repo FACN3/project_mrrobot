@@ -121,3 +121,29 @@ body {
   max-height: 150px;
   border: 3px solid;
 }
+
+
+.contact-form {
+  background-color: rgba(220,220,220, 0.2);
+  margin-top: 100px;
+}
+
+.contact-form input {
+  background: transparent;
+  border: 0;
+  outline: 0;
+  border-bottom: 1px solid blue;
+  margin-bottom: 10px;
+}
+
+.contact-form textarea {
+  background: transparent;
+  border: 0;
+  outline: 0;
+  border-bottom: 1px solid blue;
+  font-style:italic;
+}
+
+.contact-form button textarea {
+  margin: 6px 5px 10px 0px;
+}
