@@ -8,7 +8,7 @@ This project was created to practice what we have learned during the first week,
 
 ## HOW
 Everything was built from scratch. 
-We divided the website into three big parts and worked on each part individually and as a pair.
+We divided the website into three big parts and worked on each part individually and as a pair.                
 
 
 
