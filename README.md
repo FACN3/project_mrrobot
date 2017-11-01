@@ -17,7 +17,8 @@ We divided the website into three big parts and worked on each part individually
 
 
 
-Team Project Week 1
+
+
 
 To-do list:
 
