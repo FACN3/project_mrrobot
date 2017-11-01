@@ -1,6 +1,22 @@
-# project_mrrobot
+# Project_Mr.Robot
 
-Team Project Week 1
+
+## WHAT
+Team Mr.Robot's week1 one-page website project providing a short portfolio of Pavel, Sami and Sophia.
+
+## WHY
+This project was created to practice what we have learned during the first week, including accessibility, CSS and git workflow.
+
+## HOW
+Everything was built from scratch. 
+We divided the website into three big parts and worked on each part individually and as a pair.                
+
+
+
+
+
+
+
 
 To-do list:
 
