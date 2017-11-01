@@ -11,6 +11,8 @@ WE CAN HELP
 ## WHO
 
 You asking who we are? Obviously, WE are a COMMUNITY. 
+
+
 ![photo of the community](http://standrewscobourg.org/wp-content/uploads/2017/07/community.jpg)
 
 
@@ -18,9 +20,13 @@ You asking who we are? Obviously, WE are a COMMUNITY.
 We don't do apps WE CREATE CONCEPTS. RADICAL CONCEPTS
 
 We can help your business By building an organic, artisan and fairtrade product with local flavours and a good narrative behind it.
+
+
 ![radical art](http://www.alanwongs.com/sites/default/files/carrot-egg-coffee1.jpg)
 
 
-YOU can see our work here: [Here we go](https://facn3.github.io/project_mrrobot/)
+YOU can see our work here: 
+
+[Here we go](https://facn3.github.io/project_mrrobot/)
 
               
