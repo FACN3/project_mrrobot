@@ -1,4 +1,14 @@
 # project_mrrobot
+=================================
+
+This is team Mr.Robot's week1 one-page website project.
+
+
+
+
+
+
+
 
 Team Project Week 1
 
