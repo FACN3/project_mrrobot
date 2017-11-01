@@ -1,6 +1,6 @@
 
 .jumbot {
-  background-color: blue;
+  background-color: #174DC9;
   height: 400px;
   width: auto;
   overflow: hidden;
@@ -72,14 +72,14 @@
 }
 
 body {
-  background-color: #FFDBAC;
+  background-color: white;
 }
 
 .paper {
   width: 75%;
   height: 0px auto;
   padding-bottom: 100px;
-  background-color: #FFF0DD;
+  background-color: white;
 }
 
 /*Fonts*/
@@ -211,7 +211,8 @@ p {
 /*Contact Form*/
 
 .contact-form {
-  background-color: #00bfff;
+  background-color: #174DC9;
+  color:white;
 }
 
 .contact-form input {
