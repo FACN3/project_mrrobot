@@ -96,7 +96,6 @@ p {
 
 /*Fonts*/
 
-/*This is really important!!!*/
 
 .jumptarget::before {
   content: "";
@@ -104,8 +103,6 @@ p {
   height: 65px;
   margin: -65px 0 0;
 }
-
-/*This is really important!!!*/
 
 .navbar {
   margin-left: 100px;
@@ -203,7 +200,7 @@ p {
 .cont img {
   max-width: 40%;
   max-height: 150px;
- 
+
 }
 
 /*cont*/
@@ -244,5 +241,3 @@ p {
   font-family: 'Merriweather', serif;
   color: white;
 }
-
-/*Contact Form*/
