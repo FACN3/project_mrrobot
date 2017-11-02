@@ -224,3 +224,11 @@ p {
   font-family: 'Merriweather', serif;
   color: white;
 }
+
+/*Contact Form*/
+
+footer {
+  color:white;
+  text-align: center;
+  background-color: #174DC9;
+}
