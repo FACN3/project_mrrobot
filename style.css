@@ -245,3 +245,9 @@ p {
 }
 
 /*Contact Form*/
+
+footer {
+  color:white;
+  text-align: center;
+  background-color: #174DC9;
+}
