@@ -1,4 +1,3 @@
-
 .jumbot {
   background-color: #174DC9;
   height: 400px;
@@ -15,8 +14,7 @@
     width: 30%;
     display: inline-block;
   }
-
-  .jumbot img{
+  .jumbot img {
     width: 150px;
     height: 150px;
     display: inline-flex;
@@ -31,10 +29,8 @@
     text-align: left;
     width: 30%;
     display: inline-block;
-
   }
-
-  .jumbot img{
+  .jumbot img {
     width: 80px;
     height: 80px;
     margin-left: 50px;
@@ -52,10 +48,8 @@
     width: 30%;
     display: inline-block;
     vertical-align: middle;
-
   }
-
-  .jumbot img{
+  .jumbot img {
     width: 200px;
     height: 200px;
     display: inline-flex;
@@ -93,18 +87,12 @@ p {
   font-size: 18px;
 }
 
-/*Fonts*/
-
-/*This is really important!!!*/
-
 .jumptarget::before {
   content: "";
   display: block;
   height: 65px;
   margin: -65px 0 0;
 }
-
-/*This is really important!!!*/
 
 .navbar {
   margin-left: 100px;
@@ -193,8 +181,6 @@ p {
 
 /*Navigation Bar end */
 
-/*cont*/
-
 .cont {
   padding: 80px 100px 80px 100px;
 }
@@ -202,16 +188,11 @@ p {
 .cont img {
   max-width: 40%;
   max-height: 150px;
-
 }
-
-/*cont*/
-
-/*Contact Form*/
 
 .contact-form {
   background-color: #174DC9;
-  color:white;
+  color: white;
 }
 
 .contact-form input {
